@@ -1,5 +1,7 @@
 # 16s_comparison
-Comparing environmental 16S sequences to sequences from isolates
+Comparing environmental 16S sequences to sequences from isolates. 
+
+![fig](https://raw.githubusercontent.com/alexcritschristoph/16s_comparison/master/figure.png)
 
 To replicate this analysis:
 
